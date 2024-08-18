@@ -35,3 +35,5 @@ RoboFinder() {
     echo "Unique paths extracted and saved to $output_file"
 }
 
+RoboFinder "$1"
+
